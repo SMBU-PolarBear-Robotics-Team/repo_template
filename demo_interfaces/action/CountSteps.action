@@ -1,0 +1,5 @@
+int32 target
+---
+bool finished
+---
+int32 current

@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://github.com/pre-commit/pre-commit)
-[![Build](https://github.com/LihanChen2004/nav2_neupan_controller/actions/workflows/build_and_test.yml/badge.svg)](https://github.com/LihanChen2004/nav2_neupan_controller/actions/workflows/build_and_test.yml)
+[![Build](https://github.com/SMBU-PolarBear-Robotics-Team/repo_template/actions/workflows/build_and_test.yml/badge.svg)](https://github.com/SMBU-PolarBear-Robotics-Team/repo_template/actions/workflows/build_and_test.yml)
 
 ## 1. Overview
 
@@ -15,7 +15,7 @@ A minimal ROS 2 workspace template with two related packages:
 
 ### 2.1 Setup Environment
 
-- [Ubuntu 24.04](https://releases.ubuntu.com/noble/)
+- [Ubuntu 22.04](https://releases.ubuntu.com/jammy/)
 - [ROS2 humble](https://docs.ros.org/en/humble/index.html)
 
 ### 2.2 Create Workspace
